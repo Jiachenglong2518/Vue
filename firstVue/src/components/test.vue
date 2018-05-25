@@ -9,7 +9,7 @@ export default {
   name: 'test',
   data () {
     return {
-      msg: 'My name is Jiachenglong HHHH'
+      msg: 'My name is Jiachenglong HHHHa'
     }
   },
   created: function () {
